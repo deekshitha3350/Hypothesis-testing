@@ -43,7 +43,7 @@ The goal of this test is to determine whether there is strong evidence to suppor
 ### How to Run
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone <deekshitha3350/Hypothesis-testing >
    ```
 2. Navigate to the repository:
    ```bash
